@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Our menu</title>
+        <link rel="stylesheet" href="style.css"/>
+        <meta name="viewreport" content="width=device-width">
+    </head>
+    <body>
+        <div class="heading">
+            <h3>Our menu</h3>
+        </div>
+        <div class="col">
+            <span class="box-head pink">
+                chicken
+            </span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id enim id turpis ultricies lacinia quis non justo. Pellentesque tempor urna augue, et scelerisque ligula euismod a. Nulla hendreit enim nec fellis ullamcorper , id hendrerit turpis ullamcorper. Suspendisse sit amet massa vel lacus pharetra pellentesque. </p>
+        </div>
+        <div class="col">
+            <span class="box-head red">
+                Beef
+            </span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id enim id turpis ultricies lacinia quis non justo. Pellentesque tempor urna augue, et scelerisque ligula euismod a. Nulla hendreit enim nec fellis ullamcorper , id hendrerit turpis ullamcorper. Suspendisse sit amet massa vel lacus pharetra pellentesque. </p>
+        </div>
+        <div class="col last">
+            <span class="box-head yellow">
+                Sushi
+            </span>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum id enim id turpis ultricies lacinia quis non justo. Pellentesque tempor urna augue, et scelerisque ligula euismod a. Nulla hendreit enim nec fellis ullamcorper , id hendrerit turpis ullamcorper. Suspendisse sit amet massa vel lacus pharetra pellentesque. </p>
+        </div>
+    </body>
+</html>
